@@ -1,0 +1,4 @@
+/csapi/node_modules/*
+/csapp/node_modules/*
+/csapi/dist/*
+/csapi/.vscode/*
